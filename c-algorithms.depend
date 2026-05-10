@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1777109667 source:c:\users\muhammet sait\c projeleri\c-algorithms\algorithms.c
+	"algorithms.h"
+	<stdlib.h>
+
+1777109659 c:\users\muhammet sait\c projeleri\c-algorithms\algorithms.h
+
+1777115518 source:c:\users\muhammet sait\c projeleri\c-algorithms\main.c
+	<stdio.h>
+	<stdlib.h>
+	"algorithms.h"
+
